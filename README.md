@@ -1,4 +1,4 @@
-# Thanks for providing the information about the Natural Language SQL Query Generator using text-davinci-003. It seems to be a useful tool for generating SQL statements from natural language queries.
+# Natural Language SQL Query Generator using text-davinci-003. It seems to be a useful tool for generating SQL statements from natural language queries.
 
 ## Just to clarify, this script uses the OpenAI text-davinci-003 API to generate SQL SELECT statements from natural language queries, and then executes these statements on a MySQL database using the mysql-connector-python package.
 
