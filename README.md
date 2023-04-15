@@ -10,7 +10,7 @@
 
 ## Finally, it is great to know that this script is licensed under the *MIT License*, which means that users can use, modify, and distribute the code freely.
 
-## Original boilerplate READ.ME
+## READ.ME v.01
 
 *This is a Python code that uses OpenAI's GPT-3 model to generate SQL queries from natural language prompts.* The code connects to a MySQL database, extracts the schema and sample data of specified tables, and prompts the user to enter the desired information to retrieve. Using the provided schema and sample data, the code generates a SQL select statement using GPT-3 and executes it on the database.
 
