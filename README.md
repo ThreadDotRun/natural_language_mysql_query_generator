@@ -18,12 +18,12 @@
   Python 3.6 or higher
   MySQL Connector/Python
   OpenAI API key
-  Usage
+### Usage
   Clone the repository and navigate to the project directory.
   Install the required packages using the following command:
   pip install -r requirements.txt
 
-Create a creds.txt file containing the following information:
+* Create a creds.txt file containing the following information:
 ``<MySQL server host>
 <MySQL database name>
 <MySQL username>
