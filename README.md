@@ -24,10 +24,10 @@
   pip install -r requirements.txt
 
 * Create a creds.txt file containing the following information:
-``<MySQL server host>
+`<MySQL server host>
 <MySQL database name>
 <MySQL username>
-<MySQL password>``
+<MySQL password>`
 
 ### Create an OpenAI API key and save it in a file named api.key.
 *Create a file named tables.txt containing the names of the tables from which to generate schema and sample data, one table name per line.
