@@ -42,3 +42,5 @@ Run the program using the following command:*
   main function: Orchestrates the generation of SQL queries from natural language prompts using the MySQLDatabase, Codegen, and MySQLConnection classes.
   Disclaimer
   This code is for demonstration purposes only and should not be used in production environments without appropriate modifications and security measures.
+
+##### Shoutout to https://github.com/SkipTabor for the idea for the main mechanism (Feed in the schema and then ask questions).
