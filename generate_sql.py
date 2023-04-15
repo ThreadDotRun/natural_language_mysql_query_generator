@@ -150,7 +150,8 @@ schema_data = ""
 for item in data:		
 	#print(item[0])  # CREATE TABLE statement
 	#print(item[1])  # Data rows
-	schema_data += "Table schema: " + item[0] + "\n" + "Sample select * from <table>: " + item[1] + "\n"	
+	### Enable second half of this line to include a random sample row from your database. !This could expose your data.!
+	schema_data += "Table schema: " + item[0] + "\n" ## <Safed> ## + "Sample select * from <table>: " + item[1] + "\n"	
 
 if __name__ == "__main__":
 	api_key = open("api.key", 'r').readline()  # Replace with your actual API key
